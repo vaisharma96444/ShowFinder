@@ -1,0 +1,24 @@
+.show-list-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.show-item {
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+.show-item-info {
+  margin-bottom: 10px;
+}
+
+.show-item-title {
+  font-size: 24px;
+  margin-bottom: 5px;
+}
+
+.show-item-summary {
+  font-size: 16px;
+}
